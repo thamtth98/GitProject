@@ -12,14 +12,12 @@ hiện cái main đang là nhánh chính cụa em
 em có thể push code trực tiếp lên nhánh chính, hoặc thông qua nhánh làm việc
 như thế lày
 Follow 1 quá trình làm việc sẽ tương tự như ri:
-- tạo branch mới (tạo từ branch chính)
+- tạo branch mới (tạo từ branch chính): git checkout -b "branch name"
 - code
 - lưu file
 - add những file cần 
 - commit
 - push
 ========
-- tạo Pull request: rứa để đó hồi a nói sau
 
-mentor có bày em tạo PR hông: hông, là cái chi ớ anh
 git pull origin main --allow-unrelated-histories
